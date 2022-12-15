@@ -33,14 +33,14 @@ export const Projects = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2> Here are some of my projects!✨</h2>
-                        <p>aaa </p>
+                        <p></p>
                         <a class="github-button" href="https://github.com/L0tusPetal"  target="_blank" data-icon="octicon-star" data-size="large" data-show-count="true">My Github⭐</a>
                         <br></br>
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/stride" target="_blank">  <img src={meter3} alt="Image" /></a>
-                            <a href="https://github.com/nodesxploit/testnet/tree/main/stride" target="_blank">  <h5>Stride</h5></a>
+                            <a href="https://github.com/THEM-exclamationpoint/Webby" target="_blank">  <img src={meter3} alt="Image" /></a>
+                            <a href="https://github.com/THEM-exclamationpoint/Webby" target="_blank">  <h5>Webby</h5></a>
                             </div>
                         </Carousel>
                     </div>

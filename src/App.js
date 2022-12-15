@@ -15,7 +15,6 @@ function App() {
       <Banner />
       <Projects />
       <Team/>
-      {/* <Projects /> */}
      
       <Footer />
     </div>
