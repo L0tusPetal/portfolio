@@ -41,14 +41,17 @@ export const Projects = () => {
                         <div className="item">
                             <a href="https://github.com/THEM-exclamationpoint/Webby" target="_blank">  <img src={meter3} alt="Image" /></a>
                             <a href="https://github.com/THEM-exclamationpoint/Webby" target="_blank">  <h5>Webby</h5></a>
+                            A hobby-centric social media application
                         </div>
                         <div className="item">
                             <a href="https://github.com/2206-GHP-HEX-GIRLS/hex-girls-grace-shopper" target="_blank">  <img src={meter3} alt="Image" /></a>
                             <a href="https://github.com/2206-GHP-HEX-GIRLS/hex-girls-grace-shopper" target="_blank">  <h5>Boolean Bakers</h5></a>
+                            A bakery-themed e-commerce site
                         </div>
                         <div className="item">
                             <a href="https://github.com/L0tusPetal/solepost" target="_blank">  <img src={meter3} alt="Image" /></a>
                             <a href="https://github.com/L0tusPetal/solepost" target="_blank">  <h5>Solepost - WIP</h5></a>
+                            Blogging/news site
                         </div>
                         </Carousel>
                     </div>
