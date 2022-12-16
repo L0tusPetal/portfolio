@@ -9,14 +9,12 @@ export const Footer = () => {
     <footer className="footer">
       <Container>
         <Row className="align-items-center">
-          <Col size={12} sm={6}>
-          </Col>
-          <Col size={12} sm={6} className="text-center text-sm-end">
-            <div className="social-icon">
+          <Col size={12} sm={200} className="text-center text-sm-center">
+            {/* <div className="social-icon">
                 <a href="https://www.linkedin.com/in/wrenfrances/" target="_blank" rel="noreferrer"><img src={navIcon1} alt="LinkedIn" /></a>
                 <a href="https://github.com/L0tusPetal"target="_blank" rel="noreferrer"><img src={navIcon2} alt="Github" /></a>
                 
-            </div>
+            </div> */}
             <div>
             <a href="mailto:wrenfrances92@gmail.com">Email</a>
             </div>
