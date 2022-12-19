@@ -16,7 +16,7 @@ export const Footer = () => {
                 
             </div> */}
             <div>
-            <a href="mailto:wrenfrances92@gmail.com">Email</a>
+            <a href="mailto:wrenfrances92@gmail.com">Email Me!</a>
             </div>
             <p>Made with ❤️ NodeX | WannaCry</p>
           </Col>
