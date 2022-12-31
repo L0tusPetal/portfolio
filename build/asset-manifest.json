@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.636e404a.css",
-    "main.js": "/static/js/main.a3136a0f.js",
+    "main.js": "/static/js/main.c567c049.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
@@ -14,15 +14,15 @@
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/discord.svg": "/static/media/discord.27583b533952833679e4badca4e9e2a4.svg",
-    "static/media/github.svg": "/static/media/github.b92a4d73a35c58a3cece1abc5c713a77.svg",
+    "static/media/github.svg": "/static/media/github.e58a7ee8242a3851d6e73783d95d16c8.svg",
     "index.html": "/index.html",
+    "static/media/linkedin.svg": "/static/media/linkedin.1b350651ba116b00e0eed0c7217f19b1.svg",
     "main.636e404a.css.map": "/static/css/main.636e404a.css.map",
-    "main.a3136a0f.js.map": "/static/js/main.a3136a0f.js.map",
+    "main.c567c049.js.map": "/static/js/main.c567c049.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.636e404a.css",
-    "static/js/main.a3136a0f.js"
+    "static/js/main.c567c049.js"
   ]
 }
