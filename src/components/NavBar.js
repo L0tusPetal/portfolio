@@ -2,7 +2,7 @@ import React from 'react';
 import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import navIcon2 from '../assets/img/github.svg';
-import navIcon3 from '../assets/img/discord.svg';
+import navIcon4 from '../assets/img/linkedin.svg'
 import wrensume from '../assets/wrensume.docx.pdf'
 
 import headerImg from "../assets/img/header-img.svg";
@@ -53,7 +53,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/wrenfrances/" target="_blank" rel="noreferrer"><img src={navIcon3} alt="LinkedIn" /></a>
+                <a href="https://www.linkedin.com/in/wrenfrances/" target="_blank" rel="noreferrer"><img src={navIcon4} alt="LinkedIn" /></a>
                 <a href="https://github.com/L0tusPetal" target="_blank" rel="noreferrer"><img src={navIcon2} alt="Github" /></a>
                 </div> 
                 </span>
