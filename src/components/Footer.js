@@ -4,11 +4,22 @@ import { Container, Row, Col } from "react-bootstrap";
 // import navIcon2 from "../assets/img/github.svg";
 import 'animate.css';
 import Button from '@mui/material/Button';
+import { deepPurple } from '@mui/material/colors';
+import { ThemeProvider, createTheme } from '@mui/material/styles';
 
+const theme = createTheme({
+  palette: {
+    primary: {
+      main: "#8561c5"
+      // deepPurple[500],
+    },
+  },
+});
 
 export const Footer = () => {
   return (
-    <div>
+    // vv this was a footer element in place of a div when the footer was very far to the bottom. vv
+    <div> 
       <br/>
       <br/>
       <br/>
@@ -16,7 +27,9 @@ export const Footer = () => {
         <Row className="align-items-center">
           <Col size={12} sm={200} className="text-center text-sm-center">
             <div>
+            <ThemeProvider theme={theme}>
             <Button variant="contained" href="mailto:wrenfrances92@gmail.com">Email Me!</Button>
+            </ThemeProvider>
             <br/>
             <br/>
             </div>
