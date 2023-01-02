@@ -8,17 +8,22 @@ import Button from '@mui/material/Button';
 
 export const Footer = () => {
   return (
-    <footer className="footer">
+    <div>
+      <br/>
+      <br/>
+      <br/>
       <Container>
         <Row className="align-items-center">
           <Col size={12} sm={200} className="text-center text-sm-center">
             <div>
             <Button variant="contained" href="mailto:wrenfrances92@gmail.com">Email Me!</Button>
+            <br/>
+            <br/>
             </div>
-            <p>Made with ❤️ NodeX | WannaCry</p>
+            <p>Made with ❤️ NodeX | MUI | WannaCry</p>
           </Col>
         </Row>
       </Container>
-    </footer>
+    </div>
   )
 }

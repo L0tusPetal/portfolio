@@ -60,6 +60,7 @@ export const Projects = () => {
         </div>
         <img className="background-image-left" src={colorSharp} alt="" />
     </section>
+   
   )
   
 }
