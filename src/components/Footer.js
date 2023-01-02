@@ -11,7 +11,6 @@ const theme = createTheme({
   palette: {
     primary: {
       main: "#8561c5"
-      // deepPurple[500],
     },
   },
 });
@@ -28,7 +27,7 @@ export const Footer = () => {
           <Col size={12} sm={200} className="text-center text-sm-center">
             <div>
             <ThemeProvider theme={theme}>
-            <Button variant="contained" href="mailto:wrenfrances92@gmail.com">Email Me!</Button>
+            <Button variant="contained" size="large" href="mailto:wrenfrances92@gmail.com">Email Me!</Button>
             </ThemeProvider>
             <br/>
             <br/>
