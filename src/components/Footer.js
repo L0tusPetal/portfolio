@@ -13,7 +13,7 @@ export const Footer = () => {
         <Row className="align-items-center">
           <Col size={12} sm={200} className="text-center text-sm-center">
             <div>
-            <Button variant="outlined"><a href="mailto:wrenfrances92@gmail.com">Email Me!</a></Button>
+            <Button variant="contained" href="mailto:wrenfrances92@gmail.com">Email Me!</Button>
             </div>
             <p>Made with ❤️ NodeX | WannaCry</p>
           </Col>
