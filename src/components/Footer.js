@@ -1,7 +1,5 @@
 import React from 'react';
 import { Container, Row, Col } from "react-bootstrap";
-// import navIcon1 from "../assets/img/discord.svg";
-// import navIcon2 from "../assets/img/github.svg";
 import 'animate.css';
 import Button from '@mui/material/Button';
 import { deepPurple } from '@mui/material/colors';
