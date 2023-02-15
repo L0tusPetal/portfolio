@@ -49,8 +49,8 @@ export const Projects = () => {
                             A bakery-themed e-commerce site
                         </div>
                         <div className="item">
-                            <a href="https://github.com/L0tusPetal/solepost" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
-                            <a href="https://github.com/L0tusPetal/solepost" target="_blank" rel="noreferrer">  <h5>Solepost - WIP</h5></a>
+                            <a href="https://github.com/THEMELLIPSIS2/SolePost" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
+                            <a href="https://github.com/THEMELLIPSIS2/SolePost" target="_blank" rel="noreferrer">  <h5>Solepost</h5></a>
                             Blogging/news site
                         </div>
                         </Carousel>

@@ -59,17 +59,21 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <span className="tagline">{date}</span>
                 <h1>{`Hey, I'm Wren! ⚡`} </h1>
                   <h4>I'm a Software Engineer.</h4>
-                  <br></br>
-                  <i><q>Before I took a leap of faith and decided to become a software engineer, I worked in various client-facing roles including one in a start-up environment that really helped me sharpen my skills in cross-team collaboration, communication, and problem resolution.
-<br />
-<br />
-As a next step, I'm looking to leverage my team skills in a full-time software engineering/web development role. In particular, I'm interested in joining a driven, diverse team where I can build creative and innovative projects that make an impact on people. What you can expect from me is a fast and nimble learner that brings a can-do attitude to all projects and knows how to convert feedback into successful results.
-<br />
-<br />
-My top tech skills are JavaScript, React, and PostgreSQL, and I'm eager to strengthen and learn more.</q></i>
+                  <br />
+                  <i><q>Before I took a leap of faith and decided to become a software engineer, 
+                    I worked in various client-facing roles including one in a start-up environment that really helped me sharpen my skills in 
+                    cross-team collaboration, communication, and problem resolution.
+                  <br />
+                  <br />
+                  As a next step, I'm looking to leverage my team skills in a full-time software engineering/web development role. In particular, 
+                  I'm interested in joining a driven, diverse team where I can build creative and innovative projects that make an impact on people. 
+                  What you can expect from me is a fast and nimble learner that brings a can-do attitude to all projects and knows how to convert feedback into 
+                  successful results.
+                  <br />
+                  <br />
+                  My top tech skills are JavaScript, React, and PostgreSQL, and I'm eager to strengthen and learn more.</q></i>
               </div>}
             </TrackVisibility>
           </Col>
