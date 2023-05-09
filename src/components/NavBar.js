@@ -50,6 +50,7 @@ export const NavBar = () => {
               <Nav.Link href={wrensume} className={activeLink === 'team' ? 'active navbar-link' : 'navbar-link'} download="wrensume.docx.pdf">Resume</Nav.Link>
             </Nav>
             <span className="navbar-text">
+            <div class="vr" color='inherit'></div>
               <div className="social-icon">
                 <a
                 href={`https://www.linkedin.com/in/wrenfrances/`}

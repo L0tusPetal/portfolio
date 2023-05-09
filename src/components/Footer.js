@@ -2,7 +2,6 @@ import React from 'react';
 import { Container, Row, Col } from "react-bootstrap";
 import 'animate.css';
 import Button from '@mui/material/Button';
-import { deepPurple } from '@mui/material/colors';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 
 const theme = createTheme({
