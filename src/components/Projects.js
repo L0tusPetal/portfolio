@@ -51,7 +51,7 @@ export const Projects = () => {
                         <div className="item">
                             <a href="https://github.com/THEMELLIPSIS2/solepostx-front" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
                             <a href="https://github.com/THEMELLIPSIS2/solepostx-front" target="_blank" rel="noreferrer">  <h5>Solepost Frontend</h5></a>
-                            Blogging/news site frontend web application
+                            Blogging/news frontend web application
                         </div>
                         <div className="item">
                             <a href="https://github.com/THEMELLIPSIS2/solepostx-back" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
