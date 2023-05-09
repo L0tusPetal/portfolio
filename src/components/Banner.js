@@ -71,7 +71,7 @@ export const Banner = () => {
                   successful results.
                   <br />
                   <br />
-                  My top tech skills are JavaScript, React, and PostgreSQL, and I'm eager to strengthen and learn more.</q></i>
+                  My top tech skills are JavaScript, Next.js, React, and PostgreSQL, and I'm eager to strengthen and learn more.</q></i>
               </div>}
             </TrackVisibility>
           </Col>
