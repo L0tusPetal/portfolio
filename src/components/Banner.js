@@ -14,8 +14,6 @@ export const Banner = () => {
   const [setIndex] = useState(1);
   const toRotate = [ "Node Runner", "Crypto Enthusiast" ];
   const period = 2000;
-  const current = new Date();
-  const date = `${current.getDate()}-${current.getMonth()+1}-${current.getFullYear()}`;
 
   useEffect(() => {
     let ticker = setInterval(() => {
@@ -58,7 +56,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={7}>
             <TrackVisibility>
               {({ isVisible }) =>
-              <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
+              <div className="intro">
                 <h1>{`Hey, I'm Wren! ⚡`} </h1>
                   <h4>I'm a Software Engineer.</h4>
                   <br />
@@ -80,7 +78,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={5}>
             <TrackVisibility>
               {({ isVisible }) =>
-                <div className={isVisible ? "animate__animated animate__zoomIn" : ""}>
+                <div className="spaceman">
                   <img src={headerImg} alt="Header Img"/>
                 </div>}
             </TrackVisibility>

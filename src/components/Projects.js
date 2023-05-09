@@ -49,9 +49,14 @@ export const Projects = () => {
                             A bakery-themed e-commerce site
                         </div>
                         <div className="item">
-                            <a href="https://github.com/THEMELLIPSIS2/SolePost" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
-                            <a href="https://github.com/THEMELLIPSIS2/SolePost" target="_blank" rel="noreferrer">  <h5>Solepost</h5></a>
-                            Blogging/news site
+                            <a href="https://github.com/THEMELLIPSIS2/solepostx-front" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
+                            <a href="https://github.com/THEMELLIPSIS2/solepostx-front" target="_blank" rel="noreferrer">  <h5>Solepost frontend</h5></a>
+                            Blogging/news site frontend web application
+                        </div>
+                        <div className="item">
+                            <a href="https://github.com/THEMELLIPSIS2/solepostx-back" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
+                            <a href="https://github.com/THEMELLIPSIS2/solepostx-back" target="_blank" rel="noreferrer">  <h5>Solepost backend</h5></a>
+                            Blogging/news site database
                         </div>
                         </Carousel>
                     </div>
