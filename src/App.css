@@ -344,6 +344,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 40%;
   z-index: -4;
 }
+.projectLink {
+  color: #8561c5;
+}
+.projectLink:hover {
+  color: #b5a0dc;
+}
 
 /************ Projects Css ************/
 .project {
