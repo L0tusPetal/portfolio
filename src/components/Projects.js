@@ -5,7 +5,7 @@ import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png";
 import Button from '@mui/material/Button';
 import { styled } from '@mui/material/styles';
-import spidder from "src/assets/img/spidder.svg"
+import spidder from "../assets/img/1.png"
 
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
