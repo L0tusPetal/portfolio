@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.065b12c0.css",
-    "main.js": "/static/js/main.5a2d18bb.js",
+    "main.js": "/static/js/main.a060c271.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/header-img.svg": "/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
@@ -10,17 +10,19 @@
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/wrensume.docx.pdf": "/static/media/wrensume.docx.2d032846324edbf1461d.pdf",
     "static/media/1.png": "/static/media/1.57f06ca322a6a1649ade.png",
-    "static/media/stride.png": "/static/media/stride.b7d47a0e49925978c3a1.png",
+    "static/media/4.png": "/static/media/4.c31e935744f6e7396c04.png",
+    "static/media/3.png": "/static/media/3.bd57f23a525a07c8c9ce.png",
+    "static/media/2.png": "/static/media/2.024697574d3e734c6154.png",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.065b12c0.css.map": "/static/css/main.065b12c0.css.map",
-    "main.5a2d18bb.js.map": "/static/js/main.5a2d18bb.js.map",
+    "main.a060c271.js.map": "/static/js/main.a060c271.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.065b12c0.css",
-    "static/js/main.5a2d18bb.js"
+    "static/js/main.a060c271.js"
   ]
 }

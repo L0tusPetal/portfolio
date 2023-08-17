@@ -1,11 +1,13 @@
 import React from 'react';
-import meter3 from "../assets/img/stride.png";
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png";
 import Button from '@mui/material/Button';
 import { styled } from '@mui/material/styles';
-import spidder from "../assets/img/1.png"
+import spidder from "../assets/img/1.png";
+import bakery from "../assets/img/2.png";
+import SP from "../assets/img/3.png";
+import SPDB from "../assets/img/4.png";
 
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -64,14 +66,14 @@ export const Projects = () => {
                             <a href="https://webby-social.netlify.app/" target="_blank" rel="noreferrer" class="projectLink">Live Site</a>
                         </div>
                         <div className="item">
-                            <a href="https://github.com/2206-GHP-HEX-GIRLS/hex-girls-grace-shopper" target="_blank" rel="noreferrer">  <img src={meter3} alt=""/></a>
+                            <a href="https://github.com/2206-GHP-HEX-GIRLS/hex-girls-grace-shopper" target="_blank" rel="noreferrer">  <img src={bakery} alt=""/></a>
                             <h5>Boolean Bakers</h5>
                             A bakery-themed e-commerce site
                             <br />
                             <a href="https://github.com/2206-GHP-HEX-GIRLS/hex-girls-grace-shopper" target="_blank"rel="noreferrer" class="projectLink">Github</a>
                         </div>
                         <div className="item">
-                            <a href="https://github.com/THEMELLIPSIS2/solepostx-front" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
+                            <a href="https://github.com/THEMELLIPSIS2/solepostx-front" target="_blank" rel="noreferrer">  <img src={SP} alt="" /></a>
                             <br />
                             <h5>Solepost Frontend</h5>
                             Blogging/news frontend web application
@@ -79,7 +81,7 @@ export const Projects = () => {
                             <a href="https://github.com/THEMELLIPSIS2/solepostx-front" target="_blank" rel="noreferrer" class="projectLink">Github</a>
                         </div>
                         <div className="item">
-                            <a href="https://github.com/THEMELLIPSIS2/solepostx-back" target="_blank" rel="noreferrer">  <img src={meter3} alt="" /></a>
+                            <a href="https://github.com/THEMELLIPSIS2/solepostx-back" target="_blank" rel="noreferrer">  <img src={SPDB} alt="" /></a>
                             <h5>Solepost Backend</h5>
                             Blogging/news site database
                             <br />
