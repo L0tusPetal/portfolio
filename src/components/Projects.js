@@ -5,6 +5,8 @@ import 'react-multi-carousel/lib/styles.css';
 import colorSharp from "../assets/img/color-sharp.png";
 import Button from '@mui/material/Button';
 import { styled } from '@mui/material/styles';
+import spidder from "src/assets/img/spidder.svg"
+
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
@@ -52,7 +54,7 @@ export const Projects = () => {
                         <br></br>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                         <div className="item">
-                            <a href="https://github.com/THEM-exclamationpoint/Webby" target="_blank" rel="noreferrer">  <img src={meter3} alt=""/></a>
+                            <a href="https://github.com/THEM-exclamationpoint/Webby" target="_blank" rel="noreferrer">  <img src={spidder} alt=""/></a>
                             <br />
                             <h5>Webby</h5> 
                             A hobby-centric social media application
